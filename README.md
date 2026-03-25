@@ -122,19 +122,19 @@ It transforms raw data into **actionable insights** using modern visualization t
 ## 📸 Dashboard Preview  
 
 ### 🌍 Overview  
-![Overview](images/overview.png)
+![Overview](Images/overview.png)
 
 ### 🗺 Country Analysis  
-![Country](images/country_analysis.png)
+![Country](Images/country_analysis.png)
 
 ### 🛰 Orbit Analysis  
-![Orbit](images/orbit_analysis.png)
+![Orbit](Images/orbit_analysis.png)
 
 ### 🚀 Launch Analysis  
-![Launch](images/launch_analysis.png)
+![Launch](Images/launch_analysis.png)
 
 ### 🔍 Satellite Details  
-![Details](images/satellite_details.png)
+![Details](Images/satellite_details.png)
 
 ---
 
